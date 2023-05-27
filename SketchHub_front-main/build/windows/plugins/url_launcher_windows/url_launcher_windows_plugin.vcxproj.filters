@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\url_launcher_windows.cpp">
+    <ClCompile Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\url_launcher_windows.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\messages.g.cpp">
+    <ClCompile Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\messages.g.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\system_apis.cpp">
+    <ClCompile Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\system_apis.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\url_launcher_plugin.cpp">
+    <ClCompile Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\url_launcher_plugin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\include\url_launcher_windows\url_launcher_windows.h">
+    <ClInclude Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\include\url_launcher_windows\url_launcher_windows.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\messages.g.h">
+    <ClInclude Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\messages.g.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\system_apis.h">
+    <ClInclude Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\system_apis.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\url_launcher_plugin.h">
+    <ClInclude Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\url_launcher_plugin.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\ys\Desktop\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\user\Documents\GitHub\Sketch\SketchHub_front-main\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{52A5E901-7818-3BF2-9E00-44CEBCAAEC43}</UniqueIdentifier>
+      <UniqueIdentifier>{514201E3-65AE-3705-A802-BFB6F72B59C4}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{D8D3A2BE-D426-3B7D-90E8-0EC9CC8D8297}</UniqueIdentifier>
+      <UniqueIdentifier>{6E7CA084-3ED0-3C28-91D9-32DA876977D2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ys/Desktop/SketchHub_front-main/windows/runner
+# Install script for directory: C:/Users/user/Documents/GitHub/Sketch/SketchHub_front-main/windows/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

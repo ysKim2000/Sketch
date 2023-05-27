@@ -6,7 +6,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  final IO.Socket socket = IO.io('http://localhost:8080');
+  final IO.Socket socket = IO.io('http://localhost:3000');
 
   @override
   Widget build(BuildContext context) {

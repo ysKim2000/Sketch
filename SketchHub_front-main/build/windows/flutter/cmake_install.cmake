@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ys/Desktop/SketchHub_front-main/windows/flutter
+# Install script for directory: C:/Users/user/Documents/GitHub/Sketch/SketchHub_front-main/windows/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
