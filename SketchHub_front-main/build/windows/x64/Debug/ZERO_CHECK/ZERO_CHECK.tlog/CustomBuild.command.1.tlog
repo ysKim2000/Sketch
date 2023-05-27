@@ -1,0 +1,10 @@
+^C:\USERS\YS\DESKTOP\SKETCHHUB_FRONT-MAIN\BUILD\WINDOWS\CMAKEFILES\F39F8747A8F8F32BBCD5172A0BF846EB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ys/Desktop/SketchHub_front-main/windows -BC:/Users/ys/Desktop/SketchHub_front-main/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ys/Desktop/SketchHub_front-main/build/windows/sketch.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
