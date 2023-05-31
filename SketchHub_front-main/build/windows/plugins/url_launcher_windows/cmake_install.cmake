@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/user/Documents/GitHub/Sketch/SketchHub_front-main/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/windows
+# Install script for directory: C:/Users/ys/Documents/GitHub/Sketch/SketchHub_front-main/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/windows
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

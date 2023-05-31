@@ -6,10 +6,21 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  final IO.Socket socket = IO.io('http://localhost:3000');
+  final IO.Socket socket = IO.io('http://localhost:8080',
+      IO.OptionBuilder()
+          .setTransports(['websocket'])
+          .setExtraHeaders({'timeout': '0'}) // Timeout 헤더를 0으로 설정
+          .build());
+
+  _connectSocket(){
+    socket.onConnect((data) => print('Connection established'));
+    socket.onConnectError((data) => print('Connect Error: $data'));
+    socket.onDisconnect((data) => print('Socket.IO server disconnected'));
+  }
 
   @override
   Widget build(BuildContext context) {
+    _connectSocket();
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
@@ -25,7 +36,6 @@ class MyApp extends StatelessWidget {
 
 class SketchArea extends StatefulWidget {
   final IO.Socket socket;
-
   SketchArea({required this.socket});
 
   @override
